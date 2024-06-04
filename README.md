@@ -8,12 +8,7 @@
 매일 스터디를 통해 코드리뷰를 진행합니다.</p></br>
 
 <h3>🐶Team</h3>
-<a href="https://github.com/yeon0131" target="_blank">김서연</a> </br>
-<a href="https://github.com/soojeongmin" target="_blank">민수정</a> </br>
-<a href="https://github.com/PNT-01" target="_blank">송주헌</a> </br>
-<a href="https://github.com/bobaesj" target="_blank">이상진</a> </br>
 <a href="https://github.com/watashijxxnsuka" target="_blank">한서준</a> </br>
-<a href="https://github.com/Hardy0070" target="_blank">홍우빈</a></br></br>
 
 <h3>🖥️Commit</h3>
 git bash 및 SourceTree 통한 업로드 시 token 사용해야 정상 commit 됩니다.  </br>
